@@ -1,0 +1,54 @@
+body {
+    font-family: 'Liberation', sans-serif;
+}
+
+header {
+    border-bottom: 1px solid #595959;
+}
+
+header .subAzul {
+    padding-bottom: 20px;
+}
+
+section {
+    margin: 30px 0;
+}
+
+h1 {
+    font-size: 36px;
+    margin-bottom: 0;
+}
+
+.subAzul {
+    color:#125f6a;
+    font-weight: bold;
+    font-size: 12px;
+}
+
+.subPreto {
+    font-weight: bold;
+    font-size: 12px;
+}
+
+h2 {
+    font-size: 18px;
+    font-weight: normal;
+}
+
+.objetivo {
+    color:#595959;
+    line-height: 25px;
+}
+
+.descricao {
+    color:#595959;
+    font-size: 12px;
+}
+
+
+ul {
+    color:#595959;
+    font-size: 12px;
+    padding-left: 15px;
+    line-height: 18px;
+}
